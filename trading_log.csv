@@ -1,0 +1,2 @@
+timestamp_entry,timestamp_exit,pair,side,entry_price,exit_price,qty,pnl_usd,return_pct,holding_period,status
+2026-05-23 16:00:00,2026-06-22 01:00:00,BTCUSDT,short,73822.47647246,70122.50037684,0.41561500,+3559.84,+5.01%,29d 9h,closed
